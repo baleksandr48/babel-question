@@ -25,6 +25,7 @@ module.exports = {
     '@typescript-eslint/ban-ts-ignore': 'off',
     '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/ban-ts-comment': 'off',
+    'no-async-promise-executor': 'off',
     '@typescript-eslint/no-unused-vars': ['error'],
     'prettier/prettier': 'error',
   },
